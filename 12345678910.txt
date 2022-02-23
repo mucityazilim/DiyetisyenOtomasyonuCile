@@ -1,0 +1,14 @@
+*********************** 
+TC/Ad/Soyad          : 12345678910	mustafa	yilmaz
+Muayene tarih/saat   : 20.01.2022	15.45
+Boy/Kilo/ VKI        : 1.820000	83.000000	25.057360
+Teshis               : FAZLA KILOLU
+Aciklama             : Mustafa nin 5 kilo kadar fazla kilosu var, hafif diyet programi uygulanacak
+
+*********************** 
+TC/Ad/Soyad          : 12345678910	mustafa	yilmaz
+Muayene tarih/saat   : 02.02.2022	10.45
+Boy/Kilo/ VKI        : 1.840000	76.000000	22.448015
+Teshis               : NORMAL
+Aciklama             : Mustafa diyet programine uyarak sagligina kavustu.
+
